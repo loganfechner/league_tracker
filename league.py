@@ -46,7 +46,7 @@ def champ_eternals():
     return()
 
 
-#main function that will output all of the data in a readable understandble manner
+#main function that will output all of the data in a understandble manner
 def main():
     lvl7count = 0
     for i in complete_champ_list():
