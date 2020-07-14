@@ -26,6 +26,9 @@ def disparity_check():
     temp_string = ','.join(uncomplete_champs)
     champion_file.write(temp_string)
 
+
+def champ_eternals():
+    
 #print(uncomplete_champ_list())
 #print(complete_champ_list())
 disparity_check()
